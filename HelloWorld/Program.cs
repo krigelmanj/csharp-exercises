@@ -11,7 +11,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             string input;
-            string username;
+
 
             Console.WriteLine("What is you're name?");
             input = Console.ReadLine();
