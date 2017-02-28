@@ -21,7 +21,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaRectangleCalc", "AreaRectangleCalc\AreaRectangleCalc.csproj", "{6728AD03-343F-4E42-960C-E945B6468132}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{FA171972-2E3E-48D2-9337-DF2A17392A0B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MpgCalc", "ConsoleApplication1\MpgCalc.csproj", "{FA171972-2E3E-48D2-9337-DF2A17392A0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alice", "ConsoleApplication2\Alice.csproj", "{46A3A057-BED4-4FE7-82CE-8DD648B7AC16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gradebookdemo", "ConsoleApplication3\Gradebookdemo.csproj", "{29EC8894-4A15-481F-BF14-482C6CB59A32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{FA171972-2E3E-48D2-9337-DF2A17392A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA171972-2E3E-48D2-9337-DF2A17392A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA171972-2E3E-48D2-9337-DF2A17392A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46A3A057-BED4-4FE7-82CE-8DD648B7AC16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A3A057-BED4-4FE7-82CE-8DD648B7AC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A3A057-BED4-4FE7-82CE-8DD648B7AC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A3A057-BED4-4FE7-82CE-8DD648B7AC16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29EC8894-4A15-481F-BF14-482C6CB59A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29EC8894-4A15-481F-BF14-482C6CB59A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29EC8894-4A15-481F-BF14-482C6CB59A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29EC8894-4A15-481F-BF14-482C6CB59A32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
