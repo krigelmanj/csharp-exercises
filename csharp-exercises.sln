@@ -21,7 +21,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaRectangleCalc", "AreaRectangleCalc\AreaRectangleCalc.csproj", "{6728AD03-343F-4E42-960C-E945B6468132}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{FA171972-2E3E-48D2-9337-DF2A17392A0B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPGCalc", "ConsoleApplication1\MPGCalc.csproj", "{FA171972-2E3E-48D2-9337-DF2A17392A0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area", "ConsoleApplication2\Area.csproj", "{D9E15370-4F06-433C-9270-24EC1C6C9905}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{FA171972-2E3E-48D2-9337-DF2A17392A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA171972-2E3E-48D2-9337-DF2A17392A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA171972-2E3E-48D2-9337-DF2A17392A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9E15370-4F06-433C-9270-24EC1C6C9905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E15370-4F06-433C-9270-24EC1C6C9905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E15370-4F06-433C-9270-24EC1C6C9905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E15370-4F06-433C-9270-24EC1C6C9905}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
