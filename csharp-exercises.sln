@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alice", "ConsoleApplication
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gradebookdemo", "ConsoleApplication3\Gradebookdemo.csproj", "{29EC8894-4A15-481F-BF14-482C6CB59A32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithStrings", "WorkingWithStrings\WorkingWithStrings.csproj", "{AEDDFE57-4342-4F0D-970A-970D54DA256C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{29EC8894-4A15-481F-BF14-482C6CB59A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29EC8894-4A15-481F-BF14-482C6CB59A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29EC8894-4A15-481F-BF14-482C6CB59A32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEDDFE57-4342-4F0D-970A-970D54DA256C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEDDFE57-4342-4F0D-970A-970D54DA256C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEDDFE57-4342-4F0D-970A-970D54DA256C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEDDFE57-4342-4F0D-970A-970D54DA256C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
