@@ -15,14 +15,15 @@ namespace Restraurant
     public class MenuItem
     {
         private string name;
+        private double price;
+        private string description;
+        private string category;
 
         public string Name
         {
-            get { return name; }
+            private get { return name; }
             set { name = value; }
-        }
-
-        private double price;
+        }        
 
         public double Price
         {
@@ -30,20 +31,22 @@ namespace Restraurant
             set { price = value; }
         }
 
-        private string description;
-
         public string Description
         {
             get { return description; }
             set { description = value; }
         }
 
-        private string category;
-
         public string Category
         {
             get { return category; }
             set { category = value; }
+        }
+
+        public MenuItem(string passedname)
+        {
+            name = passedname
+
         }
 
     }
