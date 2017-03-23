@@ -30,10 +30,7 @@ namespace ConsoleApplication2
             {
                 Console.WriteLine("Although word is contained within the text, it is not capitalized");
             }
-            else if (text.Contains(input[1][0])) //.ToUpper
-            {
-                Console.WriteLine("Although word is contained within the text, it  capitalized");
-            }
+           
             else
             {
                 Console.WriteLine("The word is not within the text");
